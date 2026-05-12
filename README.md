@@ -10,5 +10,5 @@
 - HTML
 - CSS
 - JavaScript
-- Author
+## Author
 - Austine
