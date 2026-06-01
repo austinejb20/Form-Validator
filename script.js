@@ -21,7 +21,7 @@ form.addEventListener("submit", function (e) {
         const isPasswordValid = checkLength(password, 6, 25);
         const isPasswordsMatch = checkPasswordsMatch(password, confirmPassword);
 
-        // ✅ Correctly update outer isFormValid
+        // Correctly update outer isFormValid
         isFormValid = isUsernameValid && isEmailValid && isPasswordValid && isPasswordsMatch;
     }
 
