@@ -4,7 +4,7 @@ const email = document.getElementById("email");
 const password = document.getElementById("password");
 const confirmPassword = document.getElementById("confirmPassword");
 
-// Optional: live email validation
+// email validation
 email.addEventListener("input", () => checkEmail(email));
 
 form.addEventListener("submit", function (e) {
