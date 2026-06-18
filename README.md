@@ -1,5 +1,5 @@
 # Form Validator
-- A modern form validator application that helps users verify inputs fields before submissions.
+ A modern form validator application that helps users verify inputs fields before submissions.
 - ## Features
 - Real-time input validation
 - Error and success messages
